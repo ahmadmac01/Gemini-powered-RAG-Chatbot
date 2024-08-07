@@ -1,0 +1,10 @@
+langchain-community
+huggingface_hub
+gradio
+sentencepiece
+qdrant-client
+sentence-transformers
+langchain_huggingface
+transformers
+langchain-google-genai
+google-generativeai
