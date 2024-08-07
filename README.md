@@ -25,9 +25,15 @@ This project showcases an AI Chatbot designed to provide clear and informative a
 ## Usage
 **Prepare the Document:** Ensure `brookline_data.txt` is in the project directory.
 ## Example
-- **User:** "What information is available about the Brookline bank?"
-- **Chatbot:** "retrieved data and generated response"
+- **User:** "What type of loans you are providing?"
+- **Chatbot:** "The provided context states that the loans offered range from $1 million to $50 million and include the following financing types:
+   * Acquisition
+   * Refinancing
+   * Construction
+   * Interim
+   * Long-term lending"
   
+
 ## Technology Stack
 - Gradio
 - Langchain
