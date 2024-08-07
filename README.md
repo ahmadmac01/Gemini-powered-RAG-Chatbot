@@ -8,7 +8,7 @@ This project showcases an AI Chatbot designed to provide clear and informative a
    - **Text Splitting:** The provided document is split into manageable chunks using the RecursiveCharacterTextSplitter.
    - **Vector db:** The embeddings and associated metadata are stored in Qdrant for efficient retrieval.
 
-2. **Rerival:**
+2. **Rerieval:**
    * **Text Input:** The user enters a question.
    * **Retrieval and QA:** The user's question is processed to retrieve relevant information from the document storage, and the response 
        is generated using the Google Generative AI model.
